@@ -1,0 +1,62 @@
+📌 Problem Statement & Idea
+🚨 Problem Statement
+
+In today’s academic environment, students often struggle with:
+
+❌ Managing multiple subjects and tasks efficiently
+❌ Tracking their study progress in a structured way
+❌ Remembering revision schedules
+❌ Staying consistent and motivated
+
+Most students rely on scattered tools like notebooks, reminders, or basic apps, which:
+
+Lack integration
+Do not provide insights into progress
+Do not personalize the learning experience
+
+👉 As a result, productivity decreases and important tasks/revisions are missed.
+
+💡 Proposed Idea: AI-Powered Study Dashboard
+
+To solve this problem, we developed StudyAI – an AI-powered study management system.
+
+This platform provides a centralized dashboard where students can:
+
+📚 Manage subjects and study materials
+✅ Add and track daily tasks
+🔁 Schedule and manage revision cycles
+📊 Monitor progress using visual analytics
+🤖 Get AI-powered assistance and motivation
+🌍 Real-World Relevance
+
+This solution directly addresses real challenges faced by:
+
+🎓 School students
+🧑‍💻 College students
+📖 Competitive exam aspirants
+
+In real-world scenarios, students need:
+
+Better organization
+Smart planning
+Continuous motivation
+
+👉 This project bridges that gap by combining task management + analytics + AI support in one platform.
+
+🚀 Key Innovation (Originality)
+
+Unlike traditional task managers, this project introduces:
+
+🔥 User-specific task storage using Firebase
+📊 Dynamic progress tracking dashboard
+🤖 AI-powered motivational and study assistance
+🔐 Secure authentication system
+
+👉 The integration of AI + productivity tools in one unified platform makes this solution unique and scalable.
+
+🎯 Objective
+
+The main objective of this project is:
+
+To build an intelligent and user-friendly platform that helps students plan, track, and improve their study habits efficiently.
+
